@@ -1,2 +1,2 @@
 # CLONEGOOGLE
-https://joaoPedro095810.github.io/CLONEGOOGLE/
+file:///C:/Users/USER/Desktop/Nova%20pasta/CLONEGOOGLE/index.html
